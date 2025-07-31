@@ -234,8 +234,8 @@ https://github.com/user-attachments/assets/86f0f2bb-6d1e-4b84-9768-8f0688fe096c
 ---
 ## 📣 Notes
 
-- All student data is currently stored **in memory (RAM)**.
-- Closing the app will **erase all data** unless saved to a file (can be added).
+- All student data is currently stored in memory (RAM).
+- Closing the app will erase all data unless saved to a file (can be added).
 - You can extend this system to:
   - Add Student Login
   - Save/load from files or DB
@@ -245,7 +245,7 @@ https://github.com/user-attachments/assets/86f0f2bb-6d1e-4b84-9768-8f0688fe096c
 
 ## 📧 Author
 
-**Bharath L**  
+Bharath L  
 Java Full Stack Developer (Entry-Level)  
 Passionate about building real-world applications.
 
